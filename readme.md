@@ -7,21 +7,21 @@ I also devote myself to open-sourced software development.
 I remains active in various academic activities throughout the pandemic 
 (online and in-person conferences).
 
-Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk. 
+Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk
 
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width=20" height="20">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="20" height="20">
 </a>
 <a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
-   <img src="/img/profile.png" width=20" height="20">
+   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="20" height="20">
 </a>
-  
+      
 ### Recent Publications
 <table>
   <tbody>
     <tr>
       <td>2022 Under-review</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. ICRA 2023. <a href="https://github.com/IanYangChina/MAGF-paper-codes"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. ICRA 2023. <a href="https://github.com/IanYangChina/MAGF-paper-codes"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
     </tr>
     <tr>
       <td>2022 Under-review</td>
@@ -33,17 +33,17 @@ Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk.
     </tr>
     <tr>
       <td>2022</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-step Sparse Reward Reinforcement Learning. ICAC. <a href="https://github.com/IanYangChina/A-2-paper-code"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-step Sparse Reward Reinforcement Learning. ICAC. <a href="https://github.com/IanYangChina/A-2-paper-code"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
     </tr>
     <tr>
       <td>2021</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. An Open-Source Multi-Goal Reinforcement Learning Environment for Robotic Manipulation with Pybullet. TAROS. <a href="https://github.com/IanYangChina/pybullet_multigoal_gym"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. An Open-Source Multi-Goal Reinforcement Learning Environment for Robotic Manipulation with Pybullet. TAROS. <a href="https://github.com/IanYangChina/pybullet_multigoal_gym"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
     </tr>
     <tr>
       <td>2021</td>
       <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y., Wei, C., Liu, G. & Setchi, R. Hierarchical Reinforcement Learning with Universal Policies for Multi-Step Robotic Manipulation. IEEE TNNLS.
           <a href="https://github.com/IanYangChina/UOF-paper-code">
-              <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=15" height="15">
+              <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
           </a></td>
     </tr>
   </tbody>
