@@ -10,7 +10,7 @@ I remains active in various academic activities throughout the pandemic
 #### Reach out!
 
 <a href="mailto:YangX66@cardiff.ac.uk">
-   <img src="https://e7.pngegg.com/pngimages/413/310/png-clipart-techspan-industries-inc-computer-icons-email-aol-mail-email-miscellaneous-blue.png" width="30" height="30">
+   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" width="30" height="30">
 </a>
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="30" height="30">
@@ -24,7 +24,10 @@ I remains active in various academic activities throughout the pandemic
   <tbody>
     <tr>
       <td>2022 Under-review</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. ICRA 2023. <a href="https://github.com/IanYangChina/MAGF-paper-codes"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. ICRA 2023. 
+          <a href="https://github.com/IanYangChina/MAGF-paper-codes">
+             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
+             </a></td>
     </tr>
     <tr>
       <td>2022 Under-review</td>
@@ -36,18 +39,36 @@ I remains active in various academic activities throughout the pandemic
     </tr>
     <tr>
       <td>2022</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-step Sparse Reward Reinforcement Learning. ICAC. <a href="https://github.com/IanYangChina/A-2-paper-code"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-step Sparse Reward Reinforcement Learning. ICAC. 
+          <a href="https://arxiv.org/abs/2207.09243">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
+          <a href="https://github.com/IanYangChina/A-2-paper-code">
+             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
+             </a></td>
     </tr>
     <tr>
       <td>2021</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. An Open-Source Multi-Goal Reinforcement Learning Environment for Robotic Manipulation with Pybullet. TAROS. <a href="https://github.com/IanYangChina/pybullet_multigoal_gym"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15"></a></td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. An Open-Source Multi-Goal Reinforcement Learning Environment for Robotic Manipulation with Pybullet. TAROS. 
+          <a href="https://arxiv.org/abs/2105.05985">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
+          <a href="https://github.com/IanYangChina/pybullet_multigoal_gym">
+             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
+             </a></td>
     </tr>
     <tr>
       <td>2021</td>
       <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y., Wei, C., Liu, G. & Setchi, R. Hierarchical Reinforcement Learning with Universal Policies for Multi-Step Robotic Manipulation. IEEE TNNLS.
+          <a href="https://ieeexplore.ieee.org/document/9366328">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
+          <a href="https://www.youtube.com/watch?v=n_wQuf4r0qk">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a>
           <a href="https://github.com/IanYangChina/UOF-paper-code">
-              <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
-          </a></td>
+             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
+             </a></td>
     </tr>
   </tbody>
 </table>
