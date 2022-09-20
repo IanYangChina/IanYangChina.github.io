@@ -13,7 +13,7 @@ Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk.
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width=20" height="20">
 </a>
 <a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
-   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width=20" height="20">
+   <img src="/img/profile.png" width=20" height="20">
 </a>
   
 ### Recent Publications
