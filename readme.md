@@ -9,7 +9,7 @@ I remains active in various academic activities throughout the pandemic
 
 #### Reach out!
 
-<a href="YangX66@cardiff.ac.uk">
+<a href="mailto:YangX66@cardiff.ac.uk">
    <img src="https://e7.pngegg.com/pngimages/413/310/png-clipart-techspan-industries-inc-computer-icons-email-aol-mail-email-miscellaneous-blue.png" width="30" height="30">
 </a>
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
