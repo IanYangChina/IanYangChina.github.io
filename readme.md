@@ -11,6 +11,19 @@ Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk
 
 ### Recent Publications
 
-|||
-|:-------------------|:------------------|
-|2022 (Under-review) | **Yang, X.**, Ji, Z., Wu, J., Lai, Y. (2022). MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. 2023 IEEE International Conference of Robotics and Automation (ICRA). [Repo link.](https://github.com/IanYangChina/MAGF-paper-codes)  |
+<table>
+  <tbody>
+    <tr>
+      <td>2022 Under-review</td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. ICRA 2023. <a href="https://github.com/IanYangChina/MAGF-paper-codes">Repo Link.</a></td>
+    </tr>
+    <tr>
+      <td>2022 Under-review</td>
+      <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
+    </tr>
+    <tr>
+      <td>2022 Under-review</td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective. TCDS.</td>
+    </tr>
+  </tbody>
+</table>
