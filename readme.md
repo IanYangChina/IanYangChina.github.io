@@ -72,3 +72,7 @@ I remains active in various academic activities throughout the pandemic
     </tr>
   </tbody>
 </table>
+
+<footer>
+  <p><b>"Let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."</b></p>
+</footer>
