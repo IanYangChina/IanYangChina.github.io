@@ -7,16 +7,19 @@ I also devote myself to open-sourced software development.
 I remains active in various academic activities throughout the pandemic 
 (online and in-person conferences).
 
-Take a look around, drop me an e-mail: YangX66@cardiff.ac.uk
+#### Reach out!
 
+<a href="YangX66@cardiff.ac.uk">
+   <img src="https://e7.pngegg.com/pngimages/413/310/png-clipart-techspan-industries-inc-computer-icons-email-aol-mail-email-miscellaneous-blue.png" width="30" height="30">
+</a>
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="20" height="20">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="30" height="30">
 </a>
 <a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
-   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="20" height="20">
+   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="30" height="30">
 </a>
-      
-### Recent Publications
+
+#### Recent Publications
 <table>
   <tbody>
     <tr>
