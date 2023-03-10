@@ -19,8 +19,14 @@ I remains active in various academic activities throughout the pandemic
 <a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
    <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="30" height="30">
 </a>
+<a href="https://www.linkedin.com/in/xintong-yang-016a9a250/">
+   <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="30" height="30">
+</a>
 
 #### News
+- [2023 Mar.] Check out our new review paper on RL, Affordance and Robot learning! <a href="https://arxiv.org/abs/2303.05344">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
 - [2023 Jan.] I've started my first job as a research associate (posdoc) at Cardiff University!
 
 #### Recent Publications
@@ -38,8 +44,12 @@ I remains active in various academic activities throughout the pandemic
       <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
     </tr>
     <tr>
-      <td>2022 Under-review</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective. TCDS.</td>
+      <td>2022 Preprint</td>
+      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective.
+          <a href="https://arxiv.org/abs/2303.05344">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
+       </td>
     </tr>
     <tr>
       <td>2022</td>
