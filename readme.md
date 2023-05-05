@@ -88,4 +88,4 @@ I remains active in various academic activities throughout the pandemic
 </table>
 
 
-##### You will guide me with Your counsel, and afterward reveive me to glory. Whom have I in heacen but You? And there is none upon earth that I desire besides You. Psalms 73:24-25.
+##### I am the way, the truth and the life. No one comes to the Father except through me. John 14:6
