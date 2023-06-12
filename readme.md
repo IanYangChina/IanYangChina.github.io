@@ -36,20 +36,27 @@ I remains active in various academic activities throughout the pandemic
 <table>
   <tbody>
     <tr>
-      <td>2022 Under-review</td>
+      <td>2023 Under-review</td>
       <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. IROS 2023. 
           <a href="https://github.com/IanYangChina/MAGF-paper-codes">
              <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
              </a></td>
     </tr>
     <tr>
-      <td>2022 Under-review</td>
+      <td>2023 Under-review</td>
       <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>T Zhang, Y Liu, <b>X Yang.</b>, J Chen, J Huang. Home health care routing and scheduling in densely populated communities considering complex human behaviours. 
+          <a href="https://doi.org/10.1016/j.cie.2023.109332">
+             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Elsevier_logo_2019.svg/1024px-Elsevier_logo_2019.svg.png" width="15" height="15">
+             </a></td>
     </tr>
     <tr>
       <td>2023 </td>
       <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective. 
-             IEEE Transaction on Cognitive and Developmental Systems.
+             IEEE TCDS.
           (Preprint <a href="https://arxiv.org/abs/2303.05344">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>)
