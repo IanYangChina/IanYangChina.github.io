@@ -48,7 +48,7 @@ I remains active in various academic activities throughout the pandemic
     </tr>
     <tr>
       <td>2023</td>
-      <td>T Zhang, Y Liu, <b>X Yang.</b>, J Chen, J Huang. Home health care routing and scheduling in densely populated communities considering complex human behaviours. 
+      <td>T Zhang, Y Liu, <b>X Yang.</b>, J Chen, J Huang. Home health care routing and scheduling in densely populated communities considering complex human behaviours. Computers & Industrial Engineering. 
           <a href="https://doi.org/10.1016/j.cie.2023.109332">
              <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Elsevier_logo_2019.svg/1024px-Elsevier_logo_2019.svg.png" width="15" height="15">
              </a></td>
