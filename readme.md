@@ -37,13 +37,6 @@ I remains active in various academic activities throughout the pandemic
   <tbody>
     <tr>
       <td>2023 Under-review</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. MAGF: Manipulation Affordance-based Grasp Filter for Robotic Object Disentangling Tasks. IROS 2023. 
-          <a href="https://github.com/IanYangChina/MAGF-paper-codes">
-             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
-             </a></td>
-    </tr>
-    <tr>
-      <td>2023 Under-review</td>
       <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
     </tr>
     <tr>
