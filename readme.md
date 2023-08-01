@@ -24,13 +24,14 @@ I remains active in various academic activities throughout the pandemic
 </a>
 
 #### News
+- [2023 June.] I submitted my PhD thesis, wish me luck!
 - [2023 May.] Our review paper is officially accepted by the IEEE Transaction on Cognitive and Developmental Systems! <a href="https://arxiv.org/abs/2303.05344">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
 - [2023 Mar.] Check out our new review paper on RL, Affordance and Robot learning! <a href="https://arxiv.org/abs/2303.05344">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
-- [2023 Jan.] I've started my first job as a research associate (posdoc) at Cardiff University!
+- [2023 Jan.] I've started my first job as a research associate (postdoc) at Cardiff University!
 
 #### Recent Publications
 <table>
