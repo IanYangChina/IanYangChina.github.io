@@ -24,6 +24,8 @@ I remains active in various academic activities throughout the pandemic
 </a>
 
 #### News
+- [2023 Aug.] Congratulation to my colleague Yan Gao for his accepted paper titled "Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring" on T-ASE!
+- [2023 Aug.] Congratulation to myself for passing the viva which took 5.5 hours!
 - [2023 June.] I submitted my PhD thesis, wish me luck!
 - [2023 May.] Our review paper is officially accepted by the IEEE Transaction on Cognitive and Developmental Systems! <a href="https://arxiv.org/abs/2303.05344">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
@@ -37,7 +39,7 @@ I remains active in various academic activities throughout the pandemic
 <table>
   <tbody>
     <tr>
-      <td>2023 Under-review</td>
+      <td>2023</td>
       <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
     </tr>
     <tr>
