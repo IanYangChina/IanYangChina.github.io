@@ -1,12 +1,10 @@
-I'm a final year PhD student in the school of engineering at Cardiff University.
-I have been developing robot learning techniques for grasping and manipulation during my PhD years, 
-supervised by Dr Ze Ji, Dr Yukun Lai, and Dr Jing Wu. Now I finished and submitted my thesis, 
-and started my first job as a reserach associate in the same team at Cardiff University!
-My knowledge in machine learning (especially reinforcement learning) and experience in programming (Python, ROS, C++) 
-have enabled me to make theoretic discoveries and conduct practical software design and experiments. 
-I also devote myself to open-sourced software development. 
-I remains active in various academic activities throughout the pandemic 
-(online and in-person conferences).
+I'm a research associate in the School of Engineering at Cardiff University.
+I'm excited about enabling robots to manipulate real-world objects, rigid or deformable, through learning or non-learning methods.
+I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation throughout my PhD years, supervised by Dr Ze Ji, Dr Yukun Lai, and Dr Jing Wu.
+Now I'm developing methods to handle real-world deformable objects.
+My experience in programming (Python, ROS, C++) 
+has enabled me to conduct practical software design and experiments.
+I also devote myself to open-source software development. 
 
 #### Reach out!
 
@@ -24,23 +22,33 @@ I remains active in various academic activities throughout the pandemic
 </a>
 
 #### News
+- [2023 Sep.] My PhD thesis is now available on ORCA! <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
 - [2023 Aug.] Congratulation to my colleague Yan Gao for his accepted paper titled "Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring" on T-ASE!
 - [2023 Aug.] Congratulation to myself for passing the viva which took 5.5 hours!
 - [2023 June.] I submitted my PhD thesis, wish me luck!
 - [2023 May.] Our review paper is officially accepted by the IEEE Transaction on Cognitive and Developmental Systems! <a href="https://arxiv.org/abs/2303.05344">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
-- [2023 Mar.] Check out our new review paper on RL, Affordance and Robot learning! <a href="https://arxiv.org/abs/2303.05344">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a>
-- [2023 Jan.] I've started my first job as a research associate (postdoc) at Cardiff University!
 
 #### Recent Publications
 <table>
-  <tbody>
-    <tr>
+  <body>
+   <tr>
       <td>2023</td>
-      <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.</td>
+      <td><b>Yang, X.</b> Robotic Manipulation via Hierarchical and Affordance Learning. PhD thesis.
+          <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a></td>
+
+   </tr>
+   <tr>
+      <td>2023</td>
+      <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.
+          <a href="https://orca.cardiff.ac.uk/id/eprint/162242/">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a></td>
     </tr>
     <tr>
       <td>2023</td>
