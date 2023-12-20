@@ -1,10 +1,9 @@
-I'm a research associate in the School of Engineering at Cardiff University.
+I'm a research associate (Post Doc) in the School of Engineering at Cardiff University.
 I'm excited about enabling robots to manipulate real-world objects, rigid or deformable, through learning or non-learning methods.
-I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation throughout my PhD years, supervised by Dr Ze Ji, Dr Yukun Lai, and Dr Jing Wu.
-Now I'm developing methods to handle real-world deformable objects.
-My experience in programming (Python, ROS, C++) 
-has enabled me to conduct practical software design and experiments.
-I also devote myself to open-source software development. 
+I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation throughout my PhD years at Cardiff University and received my PhD degree in October, 2023.
+Now I'm developing methods to simulate and handle real-world deformable objects with differentiable physics.
+I also devote myself to open-source software development.
+Before my PhD, I received my Bachelor and Master degrees in Mechanical and Industrial Engineering from Guangdong University of Technology in China.
 
 #### Reach out!
 
