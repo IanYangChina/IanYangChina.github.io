@@ -21,6 +21,11 @@ Before my PhD, I received my Bachelor and Master degrees in Mechanical and Indus
 </a>
 
 #### News
+- [2024 Jan.] Our new preprint titled "Gam: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks" is now online<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606046">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>, with video demo <a href="https://www.youtube.com/watch?v=Rao_Ctfh9BI">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a>.
 - [2023 Sep.] My PhD thesis is now available on ORCA! <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
@@ -33,7 +38,17 @@ Before my PhD, I received my Bachelor and Master degrees in Mechanical and Indus
 
 #### Recent Publications
 <table>
-  <body>
+  <tbody>
+   <tr>
+      <td>2024</td>
+      <td><b>Yang, X.</b>, Wu J., Lai Y., Ji Z. Gam: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks. Neurocomputing.
+          (Preprint <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606046">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>) <a href="https://www.youtube.com/watch?v=Rao_Ctfh9BI">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a></td>
+
+   </tr>
    <tr>
       <td>2023</td>
       <td><b>Yang, X.</b> Robotic Manipulation via Hierarchical and Affordance Learning. PhD thesis.
