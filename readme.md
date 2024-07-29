@@ -1,9 +1,10 @@
-I'm a research associate (Post Doc) in the School of Engineering at Cardiff University.
+I'm a research associate (postdoc) in the School of Engineering at Cardiff University.
 I'm excited about enabling robots to manipulate real-world objects, rigid or deformable, through learning or non-learning methods.
-I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation throughout my PhD years at Cardiff University and received my PhD degree in October, 2023.
-Now I'm developing methods to simulate and handle real-world deformable objects with differentiable physics.
-I also devote myself to open-source software development.
-Before my PhD, I received my Bachelor and Master degrees in Mechanical and Industrial Engineering from Guangdong University of Technology in China.
+I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation as a PhD student at Cardiff University and received the degree in October 2023.
+Now I'm developing methods to simulate and handle real-world deformable and granular objects.
+I enjoy deeply working on robots, seeing them performing tasks for humans, and of course, understanding why they are not doing the right things!!
+I also devote myself to open-source software development - knowledge should be shared.
+Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and Industrial Engineering from the Guangdong University of Technology in China.
 
 #### Reach out!
 
@@ -29,12 +30,8 @@ Before my PhD, I received my Bachelor and Master degrees in Mechanical and Indus
 - [2023 Sep.] My PhD thesis is now available on ORCA! <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
-- [2023 Aug.] Congratulation to my colleague Yan Gao for his accepted paper titled "Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring" on T-ASE!
-- [2023 Aug.] Congratulation to myself for passing the viva which took 5.5 hours!
-- [2023 June.] I submitted my PhD thesis, wish me luck!
-- [2023 May.] Our review paper is officially accepted by the IEEE Transaction on Cognitive and Developmental Systems! <a href="https://arxiv.org/abs/2303.05344">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a>
+- [2023 Aug.] Congratulations to my colleague Yan Gao for his accepted paper "Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring" on T-ASE!
+- [2023 Aug.] Congratulations to myself for passing the viva which took 5.5 hours!
 
 #### Recent Publications
 <table>
