@@ -22,20 +22,35 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 </a>
 
 #### News
+- [2025 Jan.] I have been recruited by a new BBSRC project as a research associate at Cardiff University, working on the development of an automatic/robotised biology lab.<a href="https://gtr.ukri.org/projects?ref=BB%2FY008537%2F1">
+             <img src="https://gtr.ukri.org/resources/img/ukrilogo.png?" width="15" height="15">
+- [2025 Jan.] Our new preprent titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" is now online<a href="https://arxiv.org/abs/2411.00554">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>, with video demo <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a>.
+- [2025 Jan.] Our new preprent titled "AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation" is now online<a href="https://arxiv.org/abs/2406.09178">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>
 - [2024 Jan.] Our new preprint titled "Gam: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks" is now online<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606046">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>, with video demo <a href="https://www.youtube.com/watch?v=Rao_Ctfh9BI">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
              </a>.
-- [2023 Sep.] My PhD thesis is now available on ORCA! <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a>
-- [2023 Aug.] Congratulations to my colleague Yan Gao for his accepted paper "Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring" on T-ASE!
-- [2023 Aug.] Congratulations to myself for passing the viva which took 5.5 hours!
 
-#### Recent Publications
+#### Representative Publications
 <table>
   <tbody>
+   <tr>
+      <td>2025</td>
+      <td><b>Yang, X.</b>, Lai Y., Ji Z.Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials. IJRR (under review).
+          (Preprint <a href="https://arxiv.org/abs/2411.00554">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>) <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a></td>
+
+   </tr>
    <tr>
       <td>2024</td>
       <td><b>Yang, X.</b>, Wu J., Lai Y., Ji Z. Gam: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks. Neurocomputing.
@@ -54,20 +69,6 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
              </a></td>
 
    </tr>
-   <tr>
-      <td>2023</td>
-      <td>Gao, Y., Wu, J., <b>Yang, X.</b>, Ji, Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. T-ASE.
-          <a href="https://orca.cardiff.ac.uk/id/eprint/162242/">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a></td>
-    </tr>
-    <tr>
-      <td>2023</td>
-      <td>T Zhang, Y Liu, <b>X Yang.</b>, J Chen, J Huang. Home health care routing and scheduling in densely populated communities considering complex human behaviours. Computers & Industrial Engineering. 
-          <a href="https://doi.org/10.1016/j.cie.2023.109332">
-             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Elsevier_logo_2019.svg/1024px-Elsevier_logo_2019.svg.png" width="15" height="15">
-             </a></td>
-    </tr>
     <tr>
       <td>2023 </td>
       <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective. 
@@ -76,16 +77,6 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>)
        </td>
-    </tr>
-    <tr>
-      <td>2022</td>
-      <td><b>Yang, X.</b>, Ji, Z., Wu, J., Lai, Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-step Sparse Reward Reinforcement Learning. ICAC. 
-          <a href="https://arxiv.org/abs/2207.09243">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a>
-          <a href="https://github.com/IanYangChina/A-2-paper-code">
-             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15" height="15">
-             </a></td>
     </tr>
     <tr>
       <td>2021</td>
