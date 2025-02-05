@@ -9,7 +9,7 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 #### Reach out!
 
 <a href="mailto:YangX66@cardiff.ac.uk">
-   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" width="30" height="30">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="30" height="30">
 </a>
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="30" height="30">
@@ -23,12 +23,12 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 
 #### News
 - [2025 Jan.] I have been recruited by a new BBSRC project as a research associate at Cardiff University, working on the development of an automatic/robotised biology lab.<a href="https://gtr.ukri.org/projects?ref=BB%2FY008537%2F1">
-             <img src="https://gtr.ukri.org/resources/img/ukrilogo.png?" width="15" height="15">
+             <img src="https://gtr.ukri.org/resources/img/ukrilogo.png?" width="15" height="15"></a>
 - [2025 Jan.] Our new preprent titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" is now online<a href="https://arxiv.org/abs/2411.00554">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>, with video demo <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
-             </a>.
+             </a>. Visit our <a href="https://ianyangchina.github.io/SI4RP-data/">project page</a>.
 - [2025 Jan.] Our new preprent titled "AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation" is now online<a href="https://arxiv.org/abs/2406.09178">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
