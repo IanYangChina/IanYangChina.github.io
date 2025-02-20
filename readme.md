@@ -22,13 +22,13 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 </a>
 
 #### News
+- [2025 Feb.] Our paper titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" has been accepted by IJRR! <a href="https://arxiv.org/abs/2411.00554">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>, <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a>. <a href="https://ianyangchina.github.io/SI4RP-data/">project page</a>.
 - [2025 Jan.] I have been recruited by a new BBSRC project as a research associate at Cardiff University, working on the development of an automatic/robotised biology lab.<a href="https://gtr.ukri.org/projects?ref=BB%2FY008537%2F1">
              <img src="https://gtr.ukri.org/resources/img/ukrilogo.png?" width="15" height="15"></a>
-- [2025 Jan.] Our new preprent titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" is now online<a href="https://arxiv.org/abs/2411.00554">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
-             </a>, with video demo <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
-             </a>. Visit our <a href="https://ianyangchina.github.io/SI4RP-data/">project page</a>.
 - [2025 Jan.] Our new preprent titled "AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation" is now online<a href="https://arxiv.org/abs/2406.09178">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
@@ -43,7 +43,7 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
   <tbody>
    <tr>
       <td>2025</td>
-      <td><b>Yang, X.</b>, Lai Y., Ji Z.Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials. IJRR (under review).
+      <td><b>Yang, X.</b>, Lai Y., Ji Z.Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials. IJRR (Accepted).
           (Preprint <a href="https://arxiv.org/abs/2411.00554">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>) <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
