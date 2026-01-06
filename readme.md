@@ -9,7 +9,7 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 #### Reach out!
 
 <a href="mailto:YangX66@cardiff.ac.uk">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="30" height="30">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?20251003204701" width="30" height="30">
 </a>
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="30" height="30">
@@ -22,6 +22,11 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
 </a>
 
 #### News
+- [2025 Nov.] Our paper titled "DDBot: Differentiable Physics-Based Digging Robot for Unknown Granular Materials" has been published on IEEE TRO! <a href="https://arxiv.org/abs/2510.17335">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>, <a href="https://www.youtube.com/watch?v=eoNx5V688H0">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a>.
 - [2025 Feb.] Our paper titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" has been accepted by IJRR! <a href="https://arxiv.org/abs/2411.00554">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>, <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
@@ -43,7 +48,17 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
   <tbody>
    <tr>
       <td>2025</td>
-      <td><b>Yang, X.</b>, Lai Y., Ji Z.Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials. IJRR (Accepted).
+      <td><b>Yang, X.</b>, Minglun W., Lai Y., Ji Z. DDBot: Differentiable Physics-Based Digging Robot for Unknown Granular Materials. IEEE TRO (Published).
+          (Preprint <a href="https://arxiv.org/abs/2510.17335">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+             </a>) <a href="https://www.youtube.com/watch?v=eoNx5V688H0">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
+             </a></td>
+
+   </tr>
+   <tr>
+      <td>2025</td>
+      <td><b>Yang, X.</b>, Lai Y., Ji Z. Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials. IJRR (Published).
           (Preprint <a href="https://arxiv.org/abs/2411.00554">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>) <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
