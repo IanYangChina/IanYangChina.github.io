@@ -72,6 +72,24 @@ Standard robot learning methods struggle with granular materials (e.g., grains, 
 
 ---
 
+### Celebi's Choice: Causality-Guided Skill Optimisation for Granular Manipulation via Differentiable Simulation
+
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025*
+
+Wei M., **Yang X.**, Yan J., Lai Y.-K., Ji Z.
+
+Optimising robot skills for granular material manipulation (e.g., soil excavation and levelling) using differentiable simulation suffers from instability due to the highly nonlinear dynamics involved. Celebi addresses this by incorporating causal inference into the optimisation loop: it models causal relationships between task-relevant features (extracted from point cloud observations) and skill parameters, and uses these to adaptively adjust gradient update step sizes — improving both stability and convergence efficiency.
+
+**Key contributions:**
+- Causality-enhanced gradient-based optimisation for granular skill learning
+- Differentiable simulation environment for granular material interactions
+- Differentiable skill-to-action mapping enabling trajectory optimisation
+- Adaptive step-size adjustment via causal inference improves stability and convergence
+
+*Published at IROS 2025 — paper link to be added.*
+
+---
+
 ## Affordance & Reinforcement Learning for Rigid Object Manipulation
 
 ### GAM: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks
@@ -90,6 +108,40 @@ Disentangling objects that are in contact with each other — such as separating
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606046">📄 Preprint</a> &nbsp;·&nbsp;
 <a href="https://www.youtube.com/watch?v=Rao_Ctfh9BI">▶ Video Demo</a>
+
+---
+
+### Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-Step Sparse Reward Reinforcement Learning
+
+*27th International Conference on Automation and Computing (ICAC), 2022*
+
+**Yang, X.**, Ji Z., Wu J., Lai Y.-K.
+
+Long-horizon robotic manipulation tasks with sparse rewards (e.g., stacking several blocks where only final success is rewarded) are extremely hard for standard deep RL. This paper proposes A²E, a technique that combines two human-inspired ideas: decomposing complex tasks into ordered sub-tasks and providing abstract demonstrations of the correct sub-task sequence, while training the agent to explore more freely on poorly learnt sub-tasks and more deterministically on well-mastered ones.
+
+**Key contributions:**
+- Decomposes complex multi-step tasks into ordered sub-task sequences with abstract demonstrations
+- Adaptive exploration: more deterministic on mastered sub-tasks, more stochastic on poorly learnt ones
+- Validated on grid-world and real robotic manipulation benchmarks
+- Improves both learning efficiency and training stability over standard DRL baselines
+
+---
+
+### Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring
+
+*IEEE Transactions on Automation Science and Engineering (TASE), 2023 · vol. 21, no. 4, pp. 5457–5472 · 21 citations*
+
+Gao Y., Wu J., **Yang X.**, Ji Z.
+
+Mapless robot navigation from raw high-dimensional sensor data (LiDAR, cameras) is expensive to learn end-to-end. This work proposes an efficient hierarchical RL framework using a novel sub-goal scoring model — Predictive Neighbouring Space Scoring (PNSS) — which estimates how explorable nearby positions are from the current observation. PNSS generates compact, meaningful sub-goals that guide a low-level navigation policy, dramatically reducing learning complexity.
+
+**Key contributions:**
+- Predictive Neighbouring Space Scoring (PNSS) model for compact sub-goal generation
+- Hierarchical RL framework separating high-level goal selection from low-level navigation
+- Reduces dimension and learning complexity versus end-to-end approaches from raw sensors
+- Validated on challenging mapless navigation benchmarks
+
+<a href="https://doi.org/10.1109/TASE.2023.3260307">📰 Published Paper</a>
 
 ---
 

@@ -39,6 +39,7 @@ I am passionate about open-source development and believe that knowledge should 
              </a>, <a href="https://www.youtube.com/watch?v=eoNx5V688H0">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="15">
              </a>.
+- [2025 Oct.] Our paper titled "Celebi's Choice: Causality-Guided Skill Optimisation for Granular Manipulation via Differentiable Simulation" has been published at IROS 2025.
 - [2025 Feb.] Our paper titled "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials" has been accepted by IJRR! <a href="https://arxiv.org/abs/2411.00554">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>, <a href="https://www.youtube.com/watch?v=2-9JWRsQhTU">
@@ -58,6 +59,10 @@ I am passionate about open-source development and believe that knowledge should 
 #### Representative Publications
 <table>
   <tbody>
+   <tr>
+      <td>2025</td>
+      <td>Wei M., <b>Yang, X.</b>, Yan J., Lai Y.-K., Ji Z. Celebi's Choice: Causality-Guided Skill Optimisation for Granular Manipulation via Differentiable Simulation. IROS (Published).</td>
+   </tr>
    <tr>
       <td>2025</td>
       <td><b>Yang, X.</b>, Minglun W., Lai Y., Ji Z. DDBot: Differentiable Physics-Based Digging Robot for Unknown Granular Materials. IEEE TRO (Published).
@@ -89,6 +94,13 @@ I am passionate about open-source development and believe that knowledge should 
 
    </tr>
    <tr>
+       <td>2023</td>
+       <td>Gao Y., Wu J., <b>Yang, X.</b>, Ji Z. Efficient Hierarchical Reinforcement Learning for Mapless Navigation with Predictive Neighbouring Space Scoring. IEEE TASE.
+           <a href="https://doi.org/10.1109/TASE.2023.3260307">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
+              </a></td>
+   </tr>
+   <tr>
       <td>2023</td>
       <td><b>Yang, X.</b> Robotic Manipulation via Hierarchical and Affordance Learning. PhD thesis.
           <a href="https://orca.cardiff.ac.uk/id/eprint/162467">
@@ -104,6 +116,10 @@ I am passionate about open-source development and believe that knowledge should 
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>)
        </td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><b>Yang, X.</b>, Ji Z., Wu J., Lai Y. Abstract Demonstrations and Adaptive Exploration for Efficient and Stable Multi-Step Sparse Reward Reinforcement Learning. ICAC.</td>
     </tr>
     <tr>
       <td>2021</td>
