@@ -1,25 +1,37 @@
-I'm a research associate (postdoc) in the School of Engineering at Cardiff University.
-I'm excited about enabling robots to manipulate real-world objects, rigid or deformable, through learning or non-learning methods.
-I studied deep (hierarchical) reinforcement learning and affordance learning for rigid object grasping and manipulation as a PhD student at Cardiff University and received the degree in October 2023.
-Now I'm developing methods to simulate and handle real-world deformable and granular objects.
-I enjoy deeply working on robots, seeing them performing tasks for humans, and of course, understanding why they are not doing the right things!!
-I also devote myself to open-source software development - knowledge should be shared.
-Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and Industrial Engineering from the Guangdong University of Technology in China.
+# Xintong (Ian) Yang
 
-#### Reach out!
+**Research Associate (Postdoc) · Robotics & Manipulation · Cardiff University**
+
+---
+
+I am a postdoctoral research associate in the School of Engineering at Cardiff University. My research focuses on enabling robots to manipulate real-world objects — rigid, deformable, or granular — through both learning-based and model-based methods.
+
+During my PhD at Cardiff University (awarded October 2023), I worked on deep hierarchical reinforcement learning and affordance learning for rigid object grasping and manipulation. I am now developing methods to simulate and physically understand deformable and granular materials for high-precision robotic handling.
+
+I am passionate about open-source development and believe that knowledge should be shared freely. Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and Industrial Engineering from Guangdong University of Technology, China.
+
+---
+
+#### Contact & Profiles
 
 <a href="mailto:YangX66@cardiff.ac.uk">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?20251003204701" width="30" height="30">
-</a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?20251003204701" width="28" height="28" title="Email">
+   Email
+</a> &nbsp;
 <a href="https://scholar.google.com/citations?user=pJoieqMAAAAJ">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="30" height="30">
-</a>
-<a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
-   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="30" height="30">
-</a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="28" height="28" title="Google Scholar">
+   Google Scholar
+</a> &nbsp;
 <a href="https://www.linkedin.com/in/xintong-yang-016a9a250/">
-   <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="30" height="30">
+   <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="28" height="28" title="LinkedIn">
+   LinkedIn
+</a> &nbsp;
+<a href="https://www.zhihu.com/people/xiao-yang-69-78-27/">
+   <img src="https://picx.zhimg.com/v2-4cd83ae3d6ca76dabecf001244a62310.jpg?source=57bbeac9" width="28" height="28" title="Zhihu">
+   Zhihu
 </a>
+
+#### &nbsp;→ [Research Projects & Papers](projects)
 
 #### News
 - [2025 Nov.] Our paper titled "DDBot: Differentiable Physics-Based Digging Robot for Unknown Granular Materials" has been published on IEEE TRO! <a href="https://arxiv.org/abs/2510.17335">
@@ -34,7 +46,7 @@ Before my PhD, I received my Bachelor's and Master's degrees in Mechanical and I
              </a>. <a href="https://ianyangchina.github.io/SI4RP-data/">project page</a>.
 - [2025 Jan.] I have been recruited by a new BBSRC project as a research associate at Cardiff University, working on the development of an automatic/robotised biology lab.<a href="https://gtr.ukri.org/projects?ref=BB%2FY008537%2F1">
              <img src="https://gtr.ukri.org/resources/img/ukrilogo.png?" width="15" height="15"></a>
-- [2025 Jan.] Our new preprent titled "AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation" is now online<a href="https://arxiv.org/abs/2406.09178">
+- [2025 Jan.] Our new preprint titled "AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation" is now online<a href="https://arxiv.org/abs/2406.09178">
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1200px-PDF_icon.svg.png" width="15" height="15">
              </a>
 - [2024 Jan.] Our new preprint titled "Gam: General Affordance-Based Manipulation for Contact-Rich Object Disentangling Tasks" is now online<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606046">
