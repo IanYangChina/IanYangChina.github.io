@@ -86,7 +86,7 @@ Optimising robot skills for granular material manipulation (e.g., soil excavatio
 - Differentiable skill-to-action mapping enabling trajectory optimisation
 - Adaptive step-size adjustment via causal inference improves stability and convergence
 
-*Published at IROS 2025 — paper link to be added.*
+<a href="https://doi.org/10.1109/IROS60139.2025.11247432">📰 Published Paper</a>
 
 ---
 
